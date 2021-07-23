@@ -1,0 +1,117 @@
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.Form1.resources
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.LoginForm.resources
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.Properties.Resources.resources
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.csproj.GenerateResource.Cache
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.exe.config
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.exe
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.pdb
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\EntityFramework.dll
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Data.SQLite.dll
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\EntityFramework.xml
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Data.SQLite.xml
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.exe
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.pdb
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.DashBoard.resources
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.SettingsControl1.resources
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.BloodTestControl2.resources
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.UrineTestControl3.resources
+D:\Working Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.AboutUsControl4.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.exe.config
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\labAutomation.accdb
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.exe
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.pdb
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\EntityFramework.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\EntityFramework.xml
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.AboutUsControl4.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.BloodTestControl2.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.DashBoard.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.Form1.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.LoginForm.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.Properties.Resources.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.SettingsControl1.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.TestContainer.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.UrineTestControl3.resources
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.csproj.GenerateResource.Cache
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.exe
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.pdb
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Services.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Spatial.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Services.xml
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Spatial.xml
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Muhammad Aamir Khan\Desktop\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.csproj.ResolveComReference.cache
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.exe.config
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.exe
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.pdb
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.Shared.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\FlashControlV71.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Services.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\ShockwaveFlashObjects.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.OData.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Edm.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Spatial.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\stdole.dll
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Services.xml
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.OData.xml
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Edm.xml
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\LabAutomation1.0\LabAutomation1.0\bin\Debug\System.Spatial.xml
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\Interop.EventSystemLib.dll
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.csproj.ResolveComReference.cache
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.AboutUsControl4.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.BloodTestControl2.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.DashBoard.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.Form1.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.LoginForm.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.Manager.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.PictureSlides.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.Properties.Resources.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.ReportsContainers.AllTestContainer.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.ReportsContainers.ReportContainerForm.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.ReportsContainers.Tom.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.SettingsControl1.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.TestContainer.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1._0.UrineTestControl3.resources
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.csproj.GenerateResource.Cache
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.exe
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.pdb
+D:\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.csprojResolveAssemblyReference.cache
+F:\Complete Projects\LabAutomation1.0\LabAutomation1.0\bin\Debug\LabAutomation1.0.exe.config
+F:\Complete Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\Interop.EventSystemLib.dll
+F:\Complete Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.csproj.ResolveComReference.cache
+F:\Complete Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.exe
+F:\Complete Projects\LabAutomation1.0\LabAutomation1.0\obj\Debug\LabAutomation1.0.pdb
